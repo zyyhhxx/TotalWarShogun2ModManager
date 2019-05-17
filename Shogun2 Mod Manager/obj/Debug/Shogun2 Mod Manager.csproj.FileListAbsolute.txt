@@ -1,0 +1,15 @@
+E:\Programming Works\C#\Shogun2 Mod Manager\Shogun2 Mod Manager\bin\Debug\Shogun2 Mod Manager.exe.config
+E:\Programming Works\C#\Shogun2 Mod Manager\Shogun2 Mod Manager\bin\Debug\Shogun2 Mod Manager.exe
+E:\Programming Works\C#\Shogun2 Mod Manager\Shogun2 Mod Manager\bin\Debug\Shogun2 Mod Manager.pdb
+E:\Programming Works\C#\Shogun2 Mod Manager\Shogun2 Mod Manager\obj\Debug\Shogun2 Mod Manager.csprojAssemblyReference.cache
+E:\Programming Works\C#\Shogun2 Mod Manager\Shogun2 Mod Manager\obj\Debug\Shogun2_Mod_Manager.Form1.resources
+E:\Programming Works\C#\Shogun2 Mod Manager\Shogun2 Mod Manager\obj\Debug\Shogun2_Mod_Manager.Properties.Resources.resources
+E:\Programming Works\C#\Shogun2 Mod Manager\Shogun2 Mod Manager\obj\Debug\Shogun2 Mod Manager.csproj.GenerateResource.cache
+E:\Programming Works\C#\Shogun2 Mod Manager\Shogun2 Mod Manager\obj\Debug\Shogun2 Mod Manager.csproj.CoreCompileInputs.cache
+E:\Programming Works\C#\Shogun2 Mod Manager\Shogun2 Mod Manager\obj\Debug\Shogun2 Mod Manager.exe
+E:\Programming Works\C#\Shogun2 Mod Manager\Shogun2 Mod Manager\obj\Debug\Shogun2 Mod Manager.pdb
+E:\Programming Works\C#\Shogun2 Mod Manager\Shogun2 Mod Manager\bin\Debug\Newtonsoft.Json.dll
+E:\Programming Works\C#\Shogun2 Mod Manager\Shogun2 Mod Manager\bin\Debug\Newtonsoft.Json.xml
+E:\Programming Works\C#\Shogun2 Mod Manager\Shogun2 Mod Manager\obj\Debug\Shogun2 Mod Manager.csproj.CopyComplete
+E:\Programming Works\C#\Shogun2 Mod Manager\Shogun2 Mod Manager\obj\Debug\Shogun2_Mod_Manager.AddModForm.resources
+E:\Programming Works\C#\Shogun2 Mod Manager\Shogun2 Mod Manager\obj\Debug\Shogun2_Mod_Manager.SettingsForm.resources
